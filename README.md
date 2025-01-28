@@ -1,4 +1,4 @@
-# BiLSTM POS and NER Tagging
+# BiLSTM POS and NER Tagging (nlp course project)
 
 This repository contains the implementation of BiLSTM models for Part-of-Speech (POS) and Named Entity Recognition (NER) tagging. It includes several variants of BiLSTM models, including those with character-level embeddings and pre-trained word embeddings.
 
