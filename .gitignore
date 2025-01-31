@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+# Ignore ner and pos directories
+BiLSTM_POS_NER/ner/
+BiLSTM_POS_NER/pos/
+
+# Ignore specific files
+BiLSTM_POS_NER/wordVectors.txt
+BiLSTM_POS_NER/vocab.txt
